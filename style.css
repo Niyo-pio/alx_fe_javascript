@@ -1,0 +1,27 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+    #quoteDisplay {
+      margin: 20px 0;
+      font-size: 1.5em;
+    }
+    #quoteForm {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    #quoteForm input {
+      margin: 5px;
+      padding: 10px;
+      width: 250px;
+    }
+    #quoteForm button {
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+  
